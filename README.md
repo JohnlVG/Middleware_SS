@@ -47,12 +47,10 @@ Desarrollar una aplicación segura y modular que:
 
 ## 🛠️ Tecnologías Usadas
 
-- PHP 8.x
-- Laravel 10.x
+- PHP 
+- Laravel 
 - MySQL (via XAMPP)
 - Blade (Motor de plantillas de Laravel)
 
----
 
-## 🧭 Estructura del Proyecto
 
